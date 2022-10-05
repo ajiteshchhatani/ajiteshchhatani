@@ -2,7 +2,7 @@
 
 I am a frontend developer from India
 
-I've been in this space from the good 'ol days of JQuery logo to then working with Angular (JS and 2+) to finally discovering and subsequently trying to get better at React 
+I've been in this space from the good 'ol days of JQuery to then working with Angular (JS and 2+) to finally discovering and subsequently trying to get better at React 
 
 ## Languages, Frameworks and Libraries
 - HTML, CSS, JavaScript, TypeScript (WIP!)
